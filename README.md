@@ -11,6 +11,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm a Full Stack Developer working in Pune, India :india:
+
+
+- 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
+- ⚙️ I use daily: `.js`, `.rb`, `react`, `redux`, `.ts`, `.html`, `.css`, `rails`
+- 🌱 I’m currently learning `AWS`, `.go`
+- 👯 I’m looking to collaborate on **Open source projects(ROR || React || JS)**
+- 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/junipdewan/)
+- 🌐 Native Name - **জুনিপ**
+
+
+<a href="https://github.com/junip"><img align="left" alt="Junip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=junip&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
