@@ -16,12 +16,21 @@ Here are some ideas to get you started:
 
 #### I'm a Full Stack Developer working in Pune, India :india:
 
-
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
 - ⚙️ I am fluent with: `.js`, `.rb`, `react`, `redux`, `.ts`, `.html`, `.css`, `rails`
 - 🌱 I’m currently learning `AWS`, `.go`
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/junip/)
 - 🌐 Native Name - **জুনিপ**
 
+---
 
-<a href="https://github.com/junip"><img align="left" alt="Junip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=junip&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+- 🌱  [Exes](https://github.com/junip/exes) ![npm](https://img.shields.io/npm/dm/exes) [![GitHub stars](https://img.shields.io/github/stars/junip/exes)](https://github.com/junip/exes/stargazers)
+- ⚙️  [Jirax](https://github.com/junip/jirax)  ![npm](https://img.shields.io/npm/dm/jirax) [![GitHub stars](https://img.shields.io/github/stars/junip/jirax)](https://github.com/junip/jirax/stargazers)
+- 📏  [Switch](https://github.com/junip/switch) ![npm](https://img.shields.io/npm/dm/switchd) [![GitHub stars](https://img.shields.io/github/stars/junip/switch)](https://github.com/junip/switchd/stargazers)
+- 🌐 [React Unsplash](https://github.com/junip/react-unsplash) [![GitHub stars](https://img.shields.io/github/stars/junip/react-unsplash)](https://github.com/junip/react-unsplash/stargazers)
+---
+
+<a href="https://www.linkedin.com/in/junip/">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=junip&show_icons=true&theme=react" alt="Junip's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junip&layout=compact&theme=react" alt="Junip's top languages" />
+</a>
