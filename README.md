@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
-- ⚙️ I use daily: `.js`, `.rb`, `react`, `redux`, `.ts`, `.html`, `.css`, `rails`
+- ⚙️ I am fluent with: `.js`, `.rb`, `react`, `redux`, `.ts`, `.html`, `.css`, `rails`
 - 🌱 I’m currently learning `AWS`, `.go`
-- 👯 I’m looking to collaborate on **Open source projects(ROR || React || JS)**
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/junip/)
 - 🌐 Native Name - **জুনিপ**
 
