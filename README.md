@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://www.linkedin.com/in/junip/">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=junip&show_icons=true&theme=react" alt="Junip's github stats" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junip&layout=compact&theme=react" alt="Junip's top languages" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=junip&show_icons=true&theme=buefy&count_private=true" alt="Junip's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junip&layout=compact&theme=buefy" alt="Junip's top languages" />
 </a>
