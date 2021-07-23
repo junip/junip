@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 #### I'm a Full Stack Developer working in Pune, India :india:
-![Profile views](https://gpvc.arturio.dev/junip)
+
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
 - ⚙️ I am fluent with: `.js`, `.rb`, `react`, `redux`, `.ts`, `.html`, `.css`, `rails`
