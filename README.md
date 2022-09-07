@@ -35,3 +35,8 @@ Here are some ideas to get you started:
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=junip&show_icons=true&theme=buefy&count_private=true" alt="Junip's github stats" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junip&layout=compact&theme=buefy" alt="Junip's top languages" />
 </a>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=junip&theme=onedark)](https://github.com/junip/github-profile-trophy)
+
