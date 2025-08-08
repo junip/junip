@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
 - ⚙️ I am fluent with: `.js`, `.rb`, `react`, `redux`, `.ts`, `.html`, `.css`, `rails`
-- 🌱 I’m currently learning `remix`, `.go`, `.rs`
+- 🌱 I’m currently exploring `ML`, `Agentic AI`,
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/junip/)
 - 🌐 Native Name - **জুনিপ**
 
